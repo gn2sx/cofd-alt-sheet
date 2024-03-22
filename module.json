@@ -7,6 +7,13 @@
       "name": "dage"
     }
   ],
+  "relationships": {
+    "systems": [{
+      "id": "mta",
+      "type": "system",
+      "manifest": "https://gitlab.com/MarlQ/mta/-/raw/master/system.json"
+    }]
+  },
   "url": "https://github.com/gn2sx/cofd-alt-sheet",
   "manifest": "https://raw.githubusercontent.com/gn2sx/cofd-alt-sheet/main/module.json",
   "version": "0.0.1",
