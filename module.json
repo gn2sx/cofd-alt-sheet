@@ -1,0 +1,17 @@
+{
+  "id": "cofd-alt-sheet",
+  "title": "Alternative CofD sheet",
+  "description": "Alternative chronicles of darkness sheet.",
+  "authors": [
+    {
+      "name": ""
+    }
+  ],
+  "url": "https://github.com/gn2sx/cofd-alt-sheet",
+  "manifest": "https://raw.githubusercontent.com/gn2sx/cofd-alt-sheet/main/module.json",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  }
+}
